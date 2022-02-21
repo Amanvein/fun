@@ -1,4 +1,4 @@
-fun
+dating
 2.12
 file:///Users/amanmishra/Development/Flutter/untitled%20folder%202/fun/
 file:///Users/amanmishra/Development/Flutter/untitled%20folder%202/fun/lib/
@@ -10,6 +10,10 @@ boolean_selector
 2.12
 file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/
 file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/lib/
+carousel_slider
+2.12
+file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/carousel_slider-4.0.0/
+file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/carousel_slider-4.0.0/lib/
 characters
 2.12
 file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0/
@@ -38,6 +42,18 @@ flutter_lints
 2.12
 file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-1.0.4/
 file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-1.0.4/lib/
+get
+2.12
+file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/get-4.6.1/
+file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/get-4.6.1/lib/
+http
+2.14
+file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.4/
+file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.4/lib/
+http_parser
+2.12
+file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/
+file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/lib/
 lints
 2.12
 file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/lints-1.0.1/
@@ -54,6 +70,10 @@ path
 2.12
 file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/
 file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/lib/
+salomon_bottom_bar
+2.12
+file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/salomon_bottom_bar-3.2.0/
+file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/salomon_bottom_bar-3.2.0/lib/
 source_span
 2.12
 file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1/

@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fun">
+    package="com.example.dating">
+   <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="fun"
+        android:label="Dating"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

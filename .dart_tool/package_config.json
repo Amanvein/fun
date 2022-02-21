@@ -14,6 +14,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "carousel_slider",
+      "rootUri": "file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/carousel_slider-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "characters",
       "rootUri": "file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0",
       "packageUri": "lib/",
@@ -68,6 +74,24 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "get",
+      "rootUri": "file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/get-4.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "lints",
       "rootUri": "file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/lints-1.0.1",
       "packageUri": "lib/",
@@ -88,6 +112,12 @@
     {
       "name": "path",
       "rootUri": "file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "salomon_bottom_bar",
+      "rootUri": "file:///Users/amanmishra/FlutterDev/flutter-stable/flutter/.pub-cache/hosted/pub.dartlang.org/salomon_bottom_bar-3.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -146,13 +176,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "fun",
+      "name": "dating",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-02-21T12:30:45.039499Z",
+  "generated": "2022-02-21T14:33:09.198805Z",
   "generator": "pub",
   "generatorVersion": "2.14.4"
 }
