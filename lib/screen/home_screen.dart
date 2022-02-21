@@ -50,27 +50,28 @@ class _HomeScreenState extends State<HomeScreen> {
                 topLeft: Radius.circular(20), topRight: Radius.circular(20))),
         child: SalomonBottomBar(
           currentIndex: _currentIndex,
+          unselectedItemColor: Colors.grey.shade400,
           onTap: (i) => setState(() => _currentIndex = i),
           items: [
             SalomonBottomBarItem(
               icon: const Icon(Icons.home),
               title: const Text("Home"),
-              selectedColor: Colors.purple,
+              selectedColor: Theme.of(context).splashColor,
             ),
             SalomonBottomBarItem(
-              icon: const Icon(Icons.favorite_border),
-              title: const Text("Likes"),
-              selectedColor: Colors.pink,
+              icon: const Icon(Icons.chat),
+              title: const Text("Chats"),
+              selectedColor: Theme.of(context).splashColor,
             ),
             SalomonBottomBarItem(
-              icon: const Icon(Icons.search),
-              title: const Text("Search"),
-              selectedColor: Colors.orange,
+              icon: const Icon(Icons.mail),
+              title: const Text("Message"),
+              selectedColor: Theme.of(context).splashColor,
             ),
             SalomonBottomBarItem(
               icon: const Icon(Icons.person),
               title: const Text("Profile"),
-              selectedColor: Colors.teal,
+              selectedColor: Theme.of(context).splashColor,
             ),
           ],
         ),

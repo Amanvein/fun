@@ -3,7 +3,7 @@ import 'package:dating/config/size_config.dart';
 
 ThemeData appTheme() {
   Color primaryColor = const Color(0xFFFFB6C1);
-  Color loader = Colors.pink;
+  Color splashColor = Colors.pink;
 
   TextTheme textTheme(TextTheme base) {
     return base.copyWith(
@@ -18,6 +18,6 @@ ThemeData appTheme() {
   return themeData.copyWith(
       textTheme: textTheme(themeData.textTheme),
       scaffoldBackgroundColor: primaryColor,
-      splashColor: loader,
+      splashColor: splashColor,
       primaryColor: primaryColor);
 }
